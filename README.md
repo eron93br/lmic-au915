@@ -1,4 +1,4 @@
-Arduino-LMIC library
+Arduino-LMIC AU915 library
 ====================
 This repository contains the IBM LMIC (LoraMAC-in-C) library, slightly
 modified to run in the Arduino environment, allowing using the SX1272,
